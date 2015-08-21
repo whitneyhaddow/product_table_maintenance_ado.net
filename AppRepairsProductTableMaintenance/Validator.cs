@@ -84,7 +84,7 @@ namespace AppRepairsProductTableMaintenance
             }
             else
             {
-                MessageBox.Show(textBox.Tag + "must be a date.", Title);
+                MessageBox.Show(textBox.Tag + " must be a date.", Title);
                 textBox.Focus();
                 return false;
             }
