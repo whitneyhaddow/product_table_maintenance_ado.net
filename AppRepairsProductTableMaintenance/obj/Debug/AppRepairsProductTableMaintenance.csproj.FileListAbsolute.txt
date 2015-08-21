@@ -1,0 +1,13 @@
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\bin\Debug\AppRepairsProductTableMaintenance.exe.config
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.frmAddEditProduct.resources
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.frmProducts.resources
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.Properties.Resources.resources
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.csproj.GenerateResource.Cache
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\bin\Debug\AppRepairsv2.mdf
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\bin\Debug\AppRepairsProductTableMaintenance.exe
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\bin\Debug\AppRepairsProductTableMaintenance.pdb
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\bin\Debug\ProductsData.dll
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\bin\Debug\ProductsData.pdb
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.exe
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\AppRepairsProductTableMaintenance\obj\Debug\AppRepairsProductTableMaintenance.pdb

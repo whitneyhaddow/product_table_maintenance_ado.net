@@ -1,0 +1,5 @@
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\ProductsData\bin\Debug\AppRepairsv2.mdf
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\ProductsData\bin\Debug\ProductsData.dll
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\ProductsData\bin\Debug\ProductsData.pdb
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\ProductsData\obj\Debug\ProductsData.dll
+C:\Users\Spencer\OneDrive\Programming\ADO.NET\Labs\AppRepairsProductTableMaintenance\ProductsData\obj\Debug\ProductsData.pdb
